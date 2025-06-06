@@ -1,26 +1,26 @@
-<! Doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <link rel="stylesheet" href="styles.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Fast food</title>
+    <title>Bootstrap demo</title>
   </head>
   <body>
     <header>
       <h1>Fast Food!</h1>
-      <h2>Taste the Difference</2>
+      <h2>Taste the Difference</h2>
 <br>
       <a href="pagel.html">Home</a>
       <a href="page2.html">Order</a>
       <a href="page3.html">Pricing</a> 
       <a href="page4.html">Support</a> 
-      <div class="container">
+      <div class="container"></div>
     </header>
 
 <main>
 <!-- Content -->
-<p> What happens when you hardcode the values of your elements? In this case I have a section that is set to 940px.
+<p> What happens when you hardcode the values of your elements? In this case I have a section that is set to 
 Each of the content columns is set to 308px. What could go wrong?</p> 
 <div class="column"> 
 <h2>Content</h2>
